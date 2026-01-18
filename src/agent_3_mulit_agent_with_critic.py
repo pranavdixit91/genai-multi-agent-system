@@ -43,7 +43,7 @@ You are a critic agent.
 Your job:
 - Review the given output
 - Make sure plot summary, main characters, and overall rating are covered in Movie Review
-- Identify missing points, weak reasoning, or clarity issues
+- Make sure moview review is in Hindi
 - Do NOT rewrite the content
 - Respond with:
   - PASS (if output is good)
@@ -91,6 +91,6 @@ def run_multi_agent_system(task: str):
 
 if __name__ == "__main__":
     output = run_multi_agent_system(
-        "Write a review of Movie Fight Club including plot summary, main characters, and overall rating"
+        "Write a review of Movie Fight Club including plot summary, main characters, and overall rating in Hindi"
     )
     print("\n✅ FINAL OUTPUT:\n", output)
