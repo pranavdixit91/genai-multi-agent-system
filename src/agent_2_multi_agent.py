@@ -56,6 +56,7 @@ def run_multi_agent_system(task: str):
 
 if __name__ == "__main__":
     output = run_multi_agent_system(
-        "Write a short explanation of Agentic AI for senior backend engineers"
+        #"Write a short explanation of Agentic AI for senior backend engineers"
+        "Write a review of Movie Fight Club including plot summary, main characters, and overall rating In Hindi following writting stye of Piyush Mishra."
     )
     print("\n✅ FINAL OUTPUT:\n", output)
