@@ -18,7 +18,8 @@ def word_count(text: str):
 
 
 TOOLS = {
-    "calculator": calculator
+    "calculator": calculator,
+    "word_count": word_count,
 }
 
 # -------- Agent --------
