@@ -1,0 +1,88 @@
+
+🎯 GOAL:
+ Name the cities which are Actual Capital, Financial Capital and Cultural Capital of India and state which States they are in
+
+🧠 PLAN:
+ 1.  **Actual Capital of India**: New Delhi, Delhi
+2.  **Financial Capital of India**: Mumbai, Maharashtra
+3.  **Cultural Capital of India**: Kolkata, West Bengal
+
+➡️ EXECUTING STEP: 1.  **Actual Capital of India**: New Delhi, Delhi
+
+Executor Attempt 1:
+2. **Financial Capital of India**: Mumbai, Maharashtra
+
+Executor Attempt 2:
+FINAL ANSWER:
+Actual Capital of India: New Delhi, Delhi
+Financial Capital of India: Mumbai, Maharashtra
+Cultural Capital of India: Kolkata, West Bengal
+
+🧐 CRITIC: PASS
+
+➡️ EXECUTING STEP: 2.  **Financial Capital of India**: Mumbai, Maharashtra
+
+Executor Attempt 1:
+FINAL ANSWER:
+Actual Capital: New Delhi, National Capital Territory of Delhi
+Financial Capital: Mumbai, Maharashtra
+Cultural Capital: Kolkata, West Bengal
+
+🧐 CRITIC: PASS
+
+➡️ EXECUTING STEP: 3.  **Cultural Capital of India**: Kolkata, West Bengal
+
+Executor Attempt 1:
+1. **Actual Capital of India**: New Delhi, National Capital Territory of Delhi
+2. **Financial Capital of India**: Mumbai, Maharashtra
+3. **Cultural Capital of India**: Kolkata, West Bengal
+
+Executor Attempt 2:
+FINAL ANSWER:
+Actual Capital of India: New Delhi, National Capital Territory of Delhi
+Financial Capital of India: Mumbai, Maharashtra
+Cultural Capital of India: Kolkata, West Bengal
+
+🧐 CRITIC: PASS
+
+✅ FINAL OUTPUT:
+Actual Capital of India: New Delhi, National Capital Territory of Delhi
+Financial Capital of India: Mumbai, Maharashtra
+Cultural Capital of India: Kolkata, West Bengal
+
+🧐 CRITIC: PASS
+
+✅ FINAL OUTPUT:
+Financial Capital of India: Mumbai, Maharashtra
+Cultural Capital of India: Kolkata, West Bengal
+
+🧐 CRITIC: PASS
+
+✅ FINAL OUTPUT:
+Cultural Capital of India: Kolkata, West Bengal
+
+🧐 CRITIC: PASS
+
+✅ FINAL OUTPUT:
+
+🧐 CRITIC: PASS
+
+✅ FINAL OUTPUT:
+🧐 CRITIC: PASS
+
+✅ FINAL OUTPUT:
+✅ FINAL OUTPUT:
+
+Actual Capital of India: New Delhi, Delhi
+
+Actual Capital of India: New Delhi, Delhi
+Financial Capital of India: Mumbai, Maharashtra
+Cultural Capital of India: Kolkata, West Bengal
+
+Actual Capital: New Delhi, National Capital Territory of Delhi
+Financial Capital: Mumbai, Maharashtra
+Cultural Capital: Kolkata, West Bengal
+
+Actual Capital of India: New Delhi, National Capital Territory of Delhi
+Financial Capital of India: Mumbai, Maharashtra
+Cultural Capital of India: Kolkata, West Bengal

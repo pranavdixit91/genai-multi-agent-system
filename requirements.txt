@@ -1,1 +1,3 @@
 google-generativeai
+faiss-cpu
+sentence-transformers
